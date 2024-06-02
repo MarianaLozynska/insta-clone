@@ -25,6 +25,7 @@ const AuthForm = () => {
     }
     navigate("/");
   };
+
   return (
     <>
       <Box border={"1px solid gray"} borderRadius={4} padding={5}>
