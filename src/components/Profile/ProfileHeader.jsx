@@ -48,26 +48,26 @@ const ProfileHeader = () => {
         </Flex>
         <Flex gap={{ base: 2, sm: 4 }} alignItems={"center"}>
           <Text fontSize={{ base: "xs", md: "sm" }}>
-            <Text as="span" fontweight={"bold"} mr={1}>
+            <Text as="span" fontWeight={"bold"} mr={1}>
               4
             </Text>
             Posts
           </Text>
           <Text fontSize={{ base: "xs", md: "sm" }}>
-            <Text as="span" fontweight={"bold"} mr={1}>
+            <Text as="span" fontWeight={"bold"} mr={1}>
               149
             </Text>
             Followers
           </Text>
           <Text fontSize={{ base: "xs", md: "sm" }}>
-            <Text as="span" fontweight={"bold"} mr={1}>
+            <Text as="span" fontWeight={"bold"} mr={1}>
               175
             </Text>
             Following
           </Text>
         </Flex>
         <Flex alignItems={"center"} gap={4}>
-          <Text fontSize={"sm"} fontweight={"bold"}>
+          <Text fontSize={"sm"} fontWeight={"bold"}>
             As a programmer
           </Text>
         </Flex>

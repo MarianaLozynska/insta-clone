@@ -8,7 +8,7 @@ const ProfileTabs = () => {
       justifyContent={"center"}
       gap={{ base: 4, sm: 10 }}
       textTransform={"uppercase"}
-      fontweight={"bold"}
+      fontWeight={"bold"}
     >
       <Flex
         borderTop={"1px solid white"}
